@@ -11,7 +11,7 @@ heroku3
 requests
 motor==3.0.0
 opencv-python-headless
-pyrogram
+git+https://github.com/ErRickow/pyrogram.git
 pymongo
 pymediainfo
 prettytable
